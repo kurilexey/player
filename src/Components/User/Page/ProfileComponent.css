@@ -1,0 +1,14 @@
+.profile_window{
+    display: flex;
+    flex-direction: column;
+}
+
+.profile_window img{
+    width: 50px;
+    height: 50px;
+}
+
+.data_string{
+    display: flex;
+    flex-direction: row;
+}

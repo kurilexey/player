@@ -1,0 +1,18 @@
+.button_wrapper{
+    height: 95vh;
+    padding: 45vh 0;
+}
+.button{
+    margin: auto;
+    width:150px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align:  center;
+
+}
+
+.button:hover{
+    background-color: #9da0a4;
+    color: #FFFFFF;
+    cursor: pointer;
+}

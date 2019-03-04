@@ -1,0 +1,26 @@
+#downloaded{
+    height: 100px;
+    width: 100px;
+}
+
+.item {
+    height: 100px;
+    width: 00px;
+    margin: 5px;
+    background-color: #cccccc;
+    display: inline-flex;
+    align-items: center;
+
+}
+
+.tracksComponent{
+    display: flex;
+    flex-direction: column;
+}
+
+.player{
+    /*width: 500px;
+    height: 3vh;
+    background-color: #00FFFF;
+    color: red;*/
+}
